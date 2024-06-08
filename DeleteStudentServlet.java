@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+//This is written by ayush
 public class DeleteStudentServlet extends HttpServlet {
 	// define all variable at top
 	ServletContext sc = null;
